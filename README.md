@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dom
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Java
+- 👔 I work at the (UK) Government Digital Service
+- 👨‍🎓 I’m currently learning Java
 - 📫 Find me on LinkedIn if you are interested in collaborating on anything
 
 <!---
