@@ -1,7 +1,5 @@
 👋 Hi, I’m Dom <br>
 👀 I’m interested in full stack web development <br>
-👔 I work at the (UK) Government Digital Service <br>
-👨‍🎓 I’m currently learning Java <br>
 📫 Find me on LinkedIn if you are interested in collaborating on anything <br>
 
 <!---
